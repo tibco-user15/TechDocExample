@@ -1,12 +1,13 @@
-site_name: 'doc-example-site'
-site_description: 'An example of doc site with multiple nav links'
+# Documentation for: DOC System
 
-nav:
-  - Introduction: index.md
-  - Getting Started: getting-started.md
-  - API Reference: api-reference.md
-  - Troubleshooting: troubleshooting.md
-theme:
-  name: material
-plugins:
-  - techdocs-core
+---
+
+A DOC EXAMPLE FOR TESTING CHANGES IN GIT
+
+test of lower case 
+
+---
+
+**Introduction to Doc Example** TEST CHANGE
+
+Second Example of a description for Doc Example
